@@ -1,5 +1,4 @@
 <h1>SWIPE - Real-Time Chat Application</h1>
-<p>🚧 <strong>This project is currently a work in progress</strong> 🚧</p>
 
 <p>Welcome to <strong>SWIPE</strong>, a real-time chat application built with PHP and MySQL. SWIPE is designed to enable seamless, user-friendly communication with features like message history, profile display, and automated session management. As the project is still under active development, new features and refinements are continuously being added.</p>
 
